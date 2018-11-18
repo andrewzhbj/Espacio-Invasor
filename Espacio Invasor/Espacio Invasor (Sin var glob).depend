@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540682422 source:c:\users\andrew\documents\espacio invasor (sin var glob)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+	<windows.h>
+
